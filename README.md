@@ -29,7 +29,7 @@ Year | Milestone |
 1999 | Second employee at a Dot Com as a Perl Developer building web applications that targeted mobile devices.
 2003 | Dot Com pivots to big data, I become a Java developer and architect a parallelized data processing system handling billions of records daily. 
 2005-2009 | Sabbatical from Technology. Extensive travels in Ecuador and Colombia. Engineered composting toilets, built a miniature water reclamation plant, and rebuilt a diesel engine.
-2009- | present Drupal freelance developer 
+2009-present | Drupal freelance developer 
 
 #Relevant Drupal Experience
 
