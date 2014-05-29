@@ -8,10 +8,10 @@
 #Toolchain
 Category |Tools  |
 :------------ | :------------- 
-Primary Languages | PHP, sed, awk, Javascript/jQuery, less/sass, css 
-Secondary Languages | Java, Perl, Python, Ruby, ExtendScript, Ada, c64 Basic
+Primary Languages | PHP, SQL, sed, awk, Javascript/jQuery, less/sass, css 
+Secondary Languages | Java, XPath, Perl, Python, Ruby, ExtendScript, Ada, c64 Basic
 Editors | PhpStorm, Eclipse, vim
-Debugging/Troubleshooting | xhprof, xdebug, Chrome DevTools
+Debugging/Troubleshooting | xhprof, xdebug, Chrome DevTools, strace/dtruss/truss
 Databases | MySql, phpMyadmin
 Webservers | apache, mod_rewrite
 Version Control | git, hg, svn
@@ -19,17 +19,17 @@ Content Management Systems | Drupal 5/6/7/8, Wordpress
 
 #History
 
-
 Year | Milestone |
 ------------ | :------------- 
-1987 | First time on the internet using my c64 and my 2400 baud modem.
-1993 | 1996 Software developer for the US Army.
-1994 | First exposure to Linux - installed it on a SPARCstation2 workstation
-1996 | Built a content management system in Perl for the intelligence community to publish documents on their secret Intranet
-1999 | Second employee at a Dot Com as a Perl Developer building web applications that targeted mobile devices.
-2003 | Dot Com pivots to big data, I become a Java developer and architect a parallelized data processing system handling billions of records daily. 
-2005-2009 | Sabbatical from Technology. Extensive travels in Ecuador and Colombia. Engineered composting toilets, built a miniature water reclamation plant, and rebuilt a diesel engine.
 2009-present | Drupal freelance developer 
+2005-2009 | Sabbatical from Technology. Extensive travels in Ecuador and Colombia. Engineered composting toilets, built a miniature water reclamation plant, and rebuilt a diesel engine.
+2003 | Dot Com pivots to big data, I become a Java developer and architect a parallelized data processing system handling billions of records daily. 
+1999 | Second employee at a Dot Com as a Perl Developer building web applications that targeted mobile devices.
+1996 | Built a content management system in Perl for the intelligence community to publish documents on their secret Intranet
+1994 | First exposure to Linux - installed it on a SPARCstation2 workstation
+1993 | 1996 Software developer for the US Army.
+1987 | First time on the internet using my c64 and my 2400 baud modem.
+
 
 #Relevant Drupal Experience
 
